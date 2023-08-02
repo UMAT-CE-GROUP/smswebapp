@@ -1,0 +1,21 @@
+{
+  "name": "CE Group 5B SMS App",
+  "short_name": "CE SMS",
+  "description": "A web app to send SMS messages.",
+  "icons": [
+    {
+      "src": "email.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "email.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.php",
+  "display": "standalone",
+  "theme_color": "#007bff",
+  "background_color": "#f5f5f5"
+}

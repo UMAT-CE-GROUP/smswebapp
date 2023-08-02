@@ -1,0 +1,113 @@
+[18-Jul-2023 10:25:48 UTC] PHP Warning:  file_get_contents(your_api_url): Failed to open stream: No such file or directory in /home/kingsdev/site.kingsdevelopers.org/sms.php on line 26
+[18-Jul-2023 16:36:21 UTC] PHP Warning:  file_get_contents(https://webapp.usmsgh.com/api/sendsms?api_token=232%7CuaQo2KeVmY3TJ7JOE26ouMjxoeqgV0hJTTd8h4ik&amp;recipient=%2B233546124691&amp;sender_id=UMaT+Accommodation&amp;message=Hello%2C+PC+Hostel+is+available.%0D%0A): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kingsdev/site.kingsdevelopers.org/bulk.php on line 26
+[18-Jul-2023 16:36:22 UTC] PHP Warning:  file_get_contents(https://webapp.usmsgh.com/api/sendsms?api_token=232%7CuaQo2KeVmY3TJ7JOE26ouMjxoeqgV0hJTTd8h4ik&amp;recipient=%2B233546124691&amp;sender_id=UMaT+Accommodation&amp;message=Hello%2C+PC+Hostel+is+available.%0D%0Asendsms?api_token=232%7CuaQo2KeVmY3TJ7JOE26ouMjxoeqgV0hJTTd8h4ik&amp;recipient=%2B233202716022&amp;sender_id=UMaT+Accommodation&amp;message=Hello%2C+PC+Hostel+is+available.%0D%0A): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kingsdev/site.kingsdevelopers.org/bulk.php on line 26
+[18-Jul-2023 16:39:15 UTC] PHP Warning:  file_get_contents(https://webapp.usmsgh.com/api/sendsms?api_token=232%7CuaQo2KeVmY3TJ7JOE26ouMjxoeqgV0hJTTd8h4ik&amp;recipient=%2B233546124691%0D%0A%2B233202716022&amp;sender_id=UMaT+Accommodation&amp;message=Hello%2C+thanks+for+being+there+for+me.+I+love+you+soo+much.): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kingsdev/site.kingsdevelopers.org/bulk.php on line 26
+[18-Jul-2023 16:42:24 UTC] PHP Warning:  file_get_contents(https://webapp.usmsgh.com/api/sendsms?api_token=232%7CuaQo2KeVmY3TJ7JOE26ouMjxoeqgV0hJTTd8h4ik&amp;recipient=%2B233546124691%0D%0A%2B233202716022&amp;sender_id=UMaT+Accom.&amp;message=Hello%2C+thanks+for+being+there+for+me.+I+love+you+soo+much.): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kingsdev/site.kingsdevelopers.org/bulk.php on line 26
+[18-Jul-2023 16:43:04 UTC] PHP Warning:  file_get_contents(https://webapp.usmsgh.com/api/sendsms?api_token=232%7CuaQo2KeVmY3TJ7JOE26ouMjxoeqgV0hJTTd8h4ik&amp;recipient=%2B233546124691&amp;sender_id=UMaT+Accom&amp;message=Hello%2C+thanks+for+being+there+for+me.+I+love+you+soo+much.): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kingsdev/site.kingsdevelopers.org/bulk.php on line 26
+[18-Jul-2023 16:43:04 UTC] PHP Warning:  file_get_contents(https://webapp.usmsgh.com/api/sendsms?api_token=232%7CuaQo2KeVmY3TJ7JOE26ouMjxoeqgV0hJTTd8h4ik&amp;recipient=%2B233546124691&amp;sender_id=UMaT+Accom&amp;message=Hello%2C+thanks+for+being+there+for+me.+I+love+you+soo+much.sendsms?api_token=232%7CuaQo2KeVmY3TJ7JOE26ouMjxoeqgV0hJTTd8h4ik&amp;recipient=%2B233202716022&amp;sender_id=UMaT+Accom&amp;message=Hello%2C+thanks+for+being+there+for+me.+I+love+you+soo+much.): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kingsdev/site.kingsdevelopers.org/bulk.php on line 26
+[18-Jul-2023 22:48:23 UTC] PHP Warning:  file_get_contents(http://sms.gonlinesites.com/app/sms/api?action=send-sms&amp;api_key=REVJbHJiT2ZGeEt4SUpsS2JyZGs%3D&amp;to=0202716022&amp;from=UMaT+Accom&amp;sms=Hello+Kingsley%2C+your+room+number+is+%E2%80%9C001%E2%80%9D+at+PC+Home+Hostel.): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kingsdev/site.kingsdevelopers.org/sms.php on line 19
+[19-Jul-2023 09:50:26 UTC] PHP Warning:  Undefined array key "message" in /home/kingsdev/site.kingsdevelopers.org/balance.php on line 21
+[19-Jul-2023 13:19:32 UTC] PHP Warning:  file_get_contents(http://sms.gonlinesites.com/app/sms/api?action=send-sms&amp;api_key=REVJbHJiT2ZGeEt4SUpsS2JyZGs%3D&amp;to=0243087570&amp;from=CEgroup5B&amp;sms=Hello%2C+Sam+): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kingsdev/site.kingsdevelopers.org/sms.php on line 19
+[19-Jul-2023 13:20:46 UTC] PHP Warning:  file_get_contents(http://sms.gonlinesites.com/app/sms/api?action=send-sms&amp;api_key=REVJbHJiT2ZGeEt4SUpsS2JyZGs%3D&amp;to=0243087570&amp;from=CEgroup5B&amp;sms=This+is+group+5+Project+work.): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kingsdev/site.kingsdevelopers.org/sms.php on line 19
+[19-Jul-2023 21:06:26 UTC] PHP Warning:  file_get_contents(http://sms.gonlinesites.com/app/sms/api?action=send-sms&amp;api_key=REVJbHJiT2ZGeEt4SUpsS2JyZGs%3D&amp;to=%2B233546124691&amp;from=UMaTHostel&amp;sms=Hello+%F0%9F%91%8B%2C+your+accommodation+fees+is+due.+Thank+you+): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kingsdev/site.kingsdevelopers.org/sms.php on line 19
+[22-Jul-2023 15:41:15 UTC] PHP Warning:  file_get_contents(http://sms.gonlinesites.com/app/sms/api?action=send-sms&amp;api_key=REVJbHJiT2ZGeEt4SUpsS2JyZGs%3D&amp;to=0597161841&amp;from=CEgroup5B&amp;sms=Hi+EDEM%2C+this+is+CEgroup5B): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kingsdev/site.kingsdevelopers.org/sms.php on line 19
+[22-Jul-2023 15:57:09 UTC] PHP Warning:  file_get_contents(http://sms.gonlinesites.com/app/sms/api?action=send-sms&amp;api_key=REVJbHJiT2ZGeEt4SUpsS2JyZGs%3D&amp;to=0594944797&amp;from=CEgroup5B&amp;sms=This+is+Oscar+oh%F0%9F%98%82%F0%9F%98%82): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kingsdev/site.kingsdevelopers.org/sms.php on line 19
+[22-Jul-2023 15:57:39 UTC] PHP Warning:  file_get_contents(http://sms.gonlinesites.com/app/sms/api?action=send-sms&amp;api_key=REVJbHJiT2ZGeEt4SUpsS2JyZGs%3D&amp;to=0594944797&amp;from=CEgroup5B&amp;sms=This+is+Oscar+oh): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kingsdev/site.kingsdevelopers.org/sms.php on line 19
+[22-Jul-2023 15:58:00 UTC] PHP Warning:  file_get_contents(http://sms.gonlinesites.com/app/sms/api?action=send-sms&amp;api_key=REVJbHJiT2ZGeEt4SUpsS2JyZGs%3D&amp;to=0594944797&amp;from=CEgroup5B&amp;sms=This+is+Oscar+oh): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kingsdev/site.kingsdevelopers.org/sms.php on line 19
+[24-Jul-2023 03:29:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 03:29:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 03:29:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 03:29:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 03:30:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 03:30:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 03:30:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 03:35:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 03:39:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 07:50:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 07:52:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 07:53:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 08:09:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 08:10:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 08:13:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 12:49:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 13:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[24-Jul-2023 13:11:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kingsdev/site.kingsdevelopers.org/index.php on line 163
+[28-Jul-2023 21:31:28 UTC] PHP Warning:  file_get_contents(http://sms.gonlinesites.com/app/sms/api?action=send-sms&amp;api_key=REVJbHJiT2ZGeEt4SUpsS2JyZGs%3D&amp;to=0594031002&amp;from=CE+GROUP5B&amp;sms=Hello+): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kingsdev/site.kingsdevelopers.org/sms.php on line 19
+[29-Jul-2023 00:53:55 UTC] PHP Warning:  Undefined array key "text" in /home/kingsdev/site.kingsdevelopers.org/try.php on line 12
+[29-Jul-2023 00:53:55 UTC] PHP Warning:  Undefined array key "sender" in /home/kingsdev/site.kingsdevelopers.org/try.php on line 13
+[29-Jul-2023 00:53:55 UTC] PHP Warning:  Undefined array key "to" in /home/kingsdev/site.kingsdevelopers.org/try.php on line 14
+[29-Jul-2023 19:18:12 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:13 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:15 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:15 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:17 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:17 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:18 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:18 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:21 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:21 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:26 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:26 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:52 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:52 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:56 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:18:56 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:22:33 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:22:49 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:23:01 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:23:02 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:23:06 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:23:06 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:23:20 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:23:21 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:23:26 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:24:05 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:24:28 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:24:30 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:24:30 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:24:32 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:24:33 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:24:33 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:24:34 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:24:36 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:24:36 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:25:28 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:25:33 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:25:35 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:25:35 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:26:02 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:26:04 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:26:04 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:26:05 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:26:07 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:26:07 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:26:08 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:26:10 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:26:10 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:29:44 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:29:48 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:32:47 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:32:49 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:32:49 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:32:50 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:32:52 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:32:52 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 182
+[29-Jul-2023 19:51:55 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 185
+[29-Jul-2023 19:52:03 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 185
+[29-Jul-2023 19:58:16 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 185
+[29-Jul-2023 19:59:02 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/kingsdev/site.kingsdevelopers.org/index.php on line 185
